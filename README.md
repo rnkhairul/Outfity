@@ -45,4 +45,18 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
-# Outfity
+## App Screenshot
+
+### Mobile Application
+
+<p align="center">
+  <img src="./assets/images/Outfity/Screenshot/login.jpg" width="200" alt="Login Screen" />
+  <img src="./assets/images/Outfity/Screenshot/home.jpg" width="200" alt="Home Screen" />
+  <img src="./assets/images/Outfity/Screenshot/detail_product.jpg" width="200" alt="Detail Product" />
+  <img src="./assets/images/Outfity/Screenshot/category.jpg" width="200" alt="Category" />
+  <img src="./assets/images/Outfity/Screenshot/cart.jpg" width="200" alt="Cart" />
+  <img src="./assets/images/Outfity/Screenshot/empty_cart.jpg" width="200" alt="Empty Carts" />
+  <img src="./assets/images/Outfity/Screenshot/payment.jpg" width="200" alt="Payment" />
+  <img src="./assets/images/Outfity/Screenshot/success_payment.jpg" width="200" alt="Success Payment" />
+  <img src="./assets/images/Outfity/Screenshot/profile.jpg" width="200" alt="Profile" />
+</p>
